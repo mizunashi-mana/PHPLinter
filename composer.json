@@ -1,0 +1,18 @@
+{
+    "name": "phplint/php-linter",
+    "description": "Lint and score PHP files based on a simple ruleset.",
+    "type": "tool",
+    "keywords": [
+        "phplint",
+        "lint",
+        "syntax",
+        "check"
+    ],
+    "license": "GNU",
+    "require": {
+        "php": ">=5.4"
+    },
+    "bin": [
+        "bin/phplinter"
+    ]
+}
